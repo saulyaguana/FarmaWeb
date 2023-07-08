@@ -89,6 +89,19 @@ main .first_div {
     margin-left: 60px;
 }
 
+main .main_fig {
+    width: 550px;
+    height: 500px;
+    position: absolute;
+    left: calc(50% - 15%);
+}
+
+main .main_fig img {
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
 main .sec_div {
     display: flex;
     flex-direction: column;
